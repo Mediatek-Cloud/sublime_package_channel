@@ -1,7 +1,6 @@
 {
   "schema_version": "2.0",
-  "packages": [],
-  "includes": [
+  "packages": [
     {
       "name": "SublimeLinter-contrib-lslint",
       "details": "https://github.com/Mediatek-Cloud/SublimeLinter-contrib-lslint",
